@@ -1,0 +1,3 @@
+https://medium.com: /@nhavim123/regression-project-time-series-sales-prediction-for-a-grocery-store-db7ba18676c6
+
+Github : https://github.com/nhavim/Grocery-store-sales-prediction-/blob/main/README.md
